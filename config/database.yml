@@ -83,3 +83,4 @@ production:
   database: kadai7-25-2_production
   username: kadai7-25-2
   password: <%= ENV['KADAI7-25-2_DATABASE_PASSWORD'] %>
+  port: 5432
